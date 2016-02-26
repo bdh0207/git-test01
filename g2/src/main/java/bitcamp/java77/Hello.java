@@ -5,5 +5,6 @@ public class Hello {
 		System.out.println("git-test");
 		System.out.println("git-test02");
 		System.out.println("git-test03");
+		System.out.println("syso추가");
 	}
 }
